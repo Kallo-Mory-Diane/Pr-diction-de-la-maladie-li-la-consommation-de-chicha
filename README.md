@@ -1,4 +1,3 @@
-<img width="3506" height="2481" alt="diplom" src="https://github.com/user-attachments/assets/0e61e83d-cc9e-4351-acdf-6b7afa17bb73" />
 # Cellule 1 — Imports
 import pandas as pd
 import numpy as np
